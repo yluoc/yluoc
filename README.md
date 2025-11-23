@@ -1,9 +1,8 @@
 ### Hi, I am Yicheng, a smart contract developer
 -  Interested in implement real-world stuff into web3 world.
--  Interested in low-level programming (C++, Rust), 但是道阻且长啊。
+-  Interested in low-level programming (C++, Rust). 
 -  Working with my alumni to build an AI tool to enpower Automating Technical Business as full-stack developer.
--  Love to play Dyson Sphere Program.
--  Very very interested in Pure Math, I will go get a Math PhD once I achieve financial freedom.
+-  Currently enrolled in WQU (WorldQuant University)'s MSc in Financial Engineering.
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yluoc&theme=transparent)
 <!---

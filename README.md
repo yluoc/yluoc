@@ -1,6 +1,6 @@
-### Hi, I am Yicheng, a Blockchain Engineer
+### Hi, I am Yicheng, a Blockchain Engineer, also a Full-Stack Engineer.
 -  Interested in implement real-world stuff into web3 world.
--  Interested in low-level programming (C++, Rust). 
+-  Interested in C++/C, I like to use C++/C to make things fast. 
 -  Currently enrolled in WQU (WorldQuant University)'s MSc in Financial Engineering.
 
   ![Top Langs](./profile/top-langs.svg)
